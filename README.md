@@ -147,4 +147,4 @@ This project is developed for educational purposes.
 
 ---
 
-## Developed by-**L Jitendra Kumar**
+## Developed by:**L Jitendra Kumar**
